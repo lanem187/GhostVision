@@ -95,8 +95,7 @@ PRODUCTION READY
 [QR Code Placeholder: Links to live demo]
 
 CREDITS
-Built in Cambridge, ON • March 2026
+Built in Canada • March 2026
 Core simulation: RF signal physics + sensor fusion
 UI: Cyberpunk 2077 + Blade Runner aesthetics
 
-MIT License • Stars & PRs Welcome ↗️
